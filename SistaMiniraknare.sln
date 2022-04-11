@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.1.32319.34
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SistaMiniraknare", "SistaMiniraknare.csproj", "{A03A83B6-E759-4E95-B8D7-5846337A7DEF}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TestProject2", "..\TestProject2\TestProject2.csproj", "{2F9357D3-1A76-4301-96EA-CFFB1D76D74F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A03A83B6-E759-4E95-B8D7-5846337A7DEF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A03A83B6-E759-4E95-B8D7-5846337A7DEF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A03A83B6-E759-4E95-B8D7-5846337A7DEF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A03A83B6-E759-4E95-B8D7-5846337A7DEF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2F9357D3-1A76-4301-96EA-CFFB1D76D74F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2F9357D3-1A76-4301-96EA-CFFB1D76D74F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2F9357D3-1A76-4301-96EA-CFFB1D76D74F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2F9357D3-1A76-4301-96EA-CFFB1D76D74F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {DD37752A-D832-4EB7-9EA4-084C919BDBAD}
+	EndGlobalSection
+EndGlobal
